@@ -1,2 +1,2 @@
-# InterviewQs-solutions
- Solving Data Questions from InterviewQs
+# InterviewQs Solutions
+Solving Data Questions from InterviewQs
